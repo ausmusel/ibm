@@ -2,15 +2,13 @@
 
 ### Scorecard Submission Platform
 
+Finance (https://ibm.ent.box.com/folder/45713964752)
 
-```
-Finance
 Offering Managment
+
 Adoption
+
 Engagement
 
-\\\
-
-
-
 ### Instructions
+
